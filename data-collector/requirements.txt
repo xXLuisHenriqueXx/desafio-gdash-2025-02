@@ -1,0 +1,5 @@
+httpx
+pika
+python-dotenv
+schedule
+loguru
